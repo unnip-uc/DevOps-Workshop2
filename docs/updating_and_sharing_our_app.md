@@ -7,7 +7,7 @@ list items. They would like to transition it to the following:
 You have no todo items yet! Add one above!
 ```
 
-Pretty simple, right? Let's make the change.__
+Pretty simple, right? Let's make the change.
 
 ### Updating our Source Code
 
