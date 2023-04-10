@@ -168,3 +168,6 @@ You should see the image get pulled down and eventually start up!
 
 Click on the 3000 badge when it comes up and you should see the app with your modifications! Hooray! If the 3000 badge
 doesn't show up, you can click on the "Open Port" button and type in 3000.
+
+---
+[Home](../README.md)

@@ -85,4 +85,4 @@ Next, we're going to make a modification to our app and learn how to update our 
 Along the way, we'll learn a few other useful commands.
 
 ---
-[Back](../)
+[Home](../README.md)

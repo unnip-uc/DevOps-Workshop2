@@ -67,4 +67,4 @@ containerized applications. It's a client-server application with the following 
 ![docker_architecture](./img/docker_arch.svg)
 
 ---
-[Back](../)
+[Home](../README.md)
